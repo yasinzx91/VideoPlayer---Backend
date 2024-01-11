@@ -1,0 +1,206 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Avatar",
+      "url": "https://w0.peakpx.com/wallpaper/58/845/HD-wallpaper-avatar-neytiri-neytiri-avatar-movie.jpg",
+      "embedLink": "https://www.youtube.com/embed/72ELq0&t=9s"
+    },
+    {
+      "id": "2",
+      "caption": "Blade Runner",
+      "url": "https://w0.peakpx.com/wallpaper/253/974/HD-wallpaper-joi-blade-runner-2049-blade-runner-2049-movies-2017-movies.jpg",
+      "embedLink": "https://www.youtube.com/embed/dZOaI_Fn5o4"
+    },
+    {
+      "id": "3",
+      "caption": "Loki",
+      "url": "https://w0.peakpx.com/wallpaper/883/43/HD-wallpaper-loki-android-iphone-loki-season-2-loki-disneyplus-loki-loki-webseries-tom-hiddleston-marvels-mcu-thumbnail.jpg",
+      "embedLink": "https://www.youtube.com/embed/BDs6JMa69ns"
+    },
+    {
+      "id": "4",
+      "caption": "Dont Breathe",
+      "url": "https://w0.peakpx.com/wallpaper/159/279/HD-wallpaper-dont-breathe-art-dark-fear-horror-red-scary-thumbnail.jpg",
+      "embedLink": "https://www.youtube.com/embed/76yBTNDB6vU"
+    },
+    {
+      "id": "5",
+      "caption": "Stranger things",
+      "url": "https://w0.peakpx.com/wallpaper/808/740/HD-wallpaper-stranger-things-season-4.jpg",
+      "embedLink": "https://www.youtube.com/embed/8BICSi4XsMU"
+    },
+    {
+      "id": "6",
+      "caption": "Game of thrones",
+      "url": "https://w0.peakpx.com/wallpaper/358/779/HD-wallpaper-daenerys-targaryen-game-of-thrones-game-of-thrones-season-8-game-of-thrones-tv-shows-daenerys-targaryen-thumbnail.jpg",
+      "embedLink": "https://www.youtube.com/embed/KPLWWIOCOOQ"
+    },
+    {
+      "id": "7",
+      "caption": "Umbrella Academy",
+      "url": "https://w0.peakpx.com/wallpaper/803/729/HD-wallpaper-the-umbrella-academy-2-poster-thumbnail.jpg",
+      "embedLink": "https://www.youtube.com/embed/0DAmWHxeoKw"
+    },
+    {
+      "id": "8",
+      "caption": "The Boys",
+      "url": "https://w0.peakpx.com/wallpaper/434/344/HD-wallpaper-homelander-the-boys.jpg",
+      "embedLink": "https://www.youtube.com/embed/Rsjo7NQW0-E"
+    }
+  ],
+  "category": [
+    {
+      "catogoryname": "Movies",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Blade Runner",
+          "url": "https://w0.peakpx.com/wallpaper/253/974/HD-wallpaper-joi-blade-runner-2049-blade-runner-2049-movies-2017-movies.jpg",
+          "embedLink": "https://www.youtube.com/embed/dZOaI_Fn5o4"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "catogoryname": "Series",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "Stranger things",
+          "url": "https://w0.peakpx.com/wallpaper/808/740/HD-wallpaper-stranger-things-season-4.jpg",
+          "embedLink": "https://www.youtube.com/embed/8BICSi4XsMU"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Avatar",
+      "embedLink": "https://www.youtube.com/embed/72ELq0&t=6s",
+      "timestamp": "08/11/2023, 09:29:07",
+      "id": 5
+    },
+    {
+      "caption": "Avatar",
+      "embedLink": "https://www.youtube.com/embed/72ELq0&t=6s",
+      "timestamp": "09/11/2023, 14:06:43",
+      "id": 6
+    },
+    {
+      "caption": "Trailer",
+      "embedLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timestamp": "09/11/2023, 14:07:15",
+      "id": 7
+    },
+    {
+      "caption": "Blade runner",
+      "embedLink": "https://www.youtube.com/embed/gCcx85zbxz4",
+      "timestamp": "09/11/2023, 14:08:36",
+      "id": 8
+    },
+    {
+      "caption": "Blade runner",
+      "embedLink": "https://www.youtube.com/embed/gCcx85zbxz4",
+      "timestamp": "09/11/2023, 14:36:50",
+      "id": 9
+    },
+    {
+      "caption": "Trailer",
+      "embedLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timestamp": "10/11/2023, 11:30:37",
+      "id": 10
+    },
+    {
+      "caption": "Blade Runner",
+      "embedLink": "https://www.youtube.com/embed/5zbxz4&t=1s",
+      "timestamp": "10/11/2023, 11:36:10",
+      "id": 11
+    },
+    {
+      "caption": "Blade Runner",
+      "embedLink": "https://www.youtube.com/embed/5zbxz4&t=1s",
+      "timestamp": "10/11/2023, 11:36:18",
+      "id": 12
+    },
+    {
+      "caption": "Blade Runner",
+      "embedLink": "https://www.youtube.com/embed/dZOaI_Fn5o4",
+      "timestamp": "10/11/2023, 11:36:58",
+      "id": 13
+    },
+    {
+      "caption": "Stranger things",
+      "embedLink": "https://www.youtube.com/embed/XIgdGhpbmdz",
+      "timestamp": "10/11/2023, 11:43:20",
+      "id": 14
+    },
+    {
+      "caption": "Stranger things",
+      "embedLink": "https://www.youtube.com/embed/8BICSi4XsMU",
+      "timestamp": "10/11/2023, 11:43:56",
+      "id": 15
+    },
+    {
+      "caption": "Game of thrones",
+      "embedLink": "https://www.youtube.com/embed/KPLWWIOCOOQ",
+      "timestamp": "10/11/2023, 11:45:28",
+      "id": 16
+    },
+    {
+      "caption": "Umbrella Academy",
+      "embedLink": "https://www.youtube.com/embed/0DAmWHxeoKw",
+      "timestamp": "10/11/2023, 11:47:42",
+      "id": 17
+    },
+    {
+      "caption": "The Boys",
+      "embedLink": "https://www.youtube.com/embed/Rsjo7NQW0-E",
+      "timestamp": "10/11/2023, 11:49:11",
+      "id": 18
+    },
+    {
+      "caption": "Umbrella Academy",
+      "embedLink": "https://www.youtube.com/embed/0DAmWHxeoKw",
+      "timestamp": "10/11/2023, 12:37:01",
+      "id": 19
+    },
+    {
+      "caption": "The Boys",
+      "embedLink": "https://www.youtube.com/embed/Rsjo7NQW0-E",
+      "timestamp": "10/11/2023, 12:37:30",
+      "id": 20
+    },
+    {
+      "caption": "The Boys",
+      "embedLink": "https://www.youtube.com/embed/Rsjo7NQW0-E",
+      "timestamp": "10/11/2023, 12:38:36",
+      "id": 21
+    },
+    {
+      "caption": "Umbrella Academy",
+      "embedLink": "https://www.youtube.com/embed/0DAmWHxeoKw",
+      "timestamp": "10/11/2023, 12:38:42",
+      "id": 22
+    },
+    {
+      "caption": "Blade Runner",
+      "embedLink": "https://www.youtube.com/embed/dZOaI_Fn5o4",
+      "timestamp": "10/11/2023, 13:41:42",
+      "id": 23
+    },
+    {
+      "caption": "The Boys",
+      "embedLink": "https://www.youtube.com/embed/Rsjo7NQW0-E",
+      "timestamp": "10/11/2023, 13:41:47",
+      "id": 24
+    },
+    {
+      "caption": "Stranger things",
+      "embedLink": "https://www.youtube.com/embed/8BICSi4XsMU",
+      "timestamp": "10/11/2023, 13:43:36",
+      "id": 25
+    }
+  ]
+}
